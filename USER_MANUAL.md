@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📖 Takiyuddin - User Manual (v1.8.1)
+# 📖 Takiyuddin - User Manual (v1.8.x)
 
 [🇹🇷 Türkçe (Turkish)](#-türkçe-kullanım-kılavuzu) &nbsp; | &nbsp; [🇬🇧 English](#-english-user-manual) &nbsp; | &nbsp; [🇸🇦 العربية (Arabic)](#-دليل-المستخدم-باللغة-العربية)
 
