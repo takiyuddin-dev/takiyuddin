@@ -15,7 +15,7 @@
 
 ### 📥 Uygulamayı İndir / Download App / تحميل التطبيق
 
-[![Download APK](https://img.shields.io/badge/Download-APK_Release-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v1.8.1/takiyuddinv1.8.1.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK_Release-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v1.8.2/takiyuddinv1.8.2.apk)
 
 🇹🇷 *Takiyuddin uygulamasının en güncel sürümünü (APK) cihazınıza kurmak için yukarıdaki butona tıklayın.*
 <br>
