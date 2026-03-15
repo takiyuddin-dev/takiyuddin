@@ -1,7 +1,25 @@
-# takiyuddin
+<div align="center">
 
-بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ
+# Takiyyuddin
 
- رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
- "Ey Rabbimiz! Bizden kabul buyur! Şüphesiz sen hakkıyla işitensin, hakkıyla bilensin.
-Application APK release
+**بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ**
+
+*رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ*
+<br>
+*"Ey Rabbimiz! Bizden kabul buyur! Şüphesiz sen hakkıyla işitensin, hakkıyla bilensin."*
+*(Bakara Suresi, 127)*
+
+---
+
+### 📥 Uygulamayı İndir / Download App
+
+[![Download APK]([https://github.com/takiyuddin-dev/takiyuddin/releases/download/v1.8.1/takiyuddinv1.8.1.apk))
+
+*Takiyyuddin uygulamasının en güncel sürümünü (APK) cihazınıza kurmak için yukarıdaki butona tıklayın.*
+
+</div>
+
+---
+
+## 🎯 Proje Hakkında (About the Project)
+Takiyyuddin, sadece bir uygulama değil; kullanıcısını gündelik hayatın hızından koparıp tefekküre ve eyleme davet eden bir "Şuur ve Aksiyon Motoru"dur.
