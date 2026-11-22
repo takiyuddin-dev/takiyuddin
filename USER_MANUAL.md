@@ -1,179 +1,312 @@
 <div align="center">
 
-# 📖 Takiyuddin - User Manual (v1.8.x)
 
-[🇹🇷 Türkçe (Turkish)](#-türkçe-kullanım-kılavuzu) &nbsp; | &nbsp; [🇬🇧 English](#-english-user-manual) &nbsp; | &nbsp; [🇸🇦 العربية (Arabic)](#-دليل-المستخدم-باللغة-العربية)
+# 📿 Takiyuddin
+
+**Kullanım Kılavuzu · User Manual · دليل المستخدم**
+
+`v2.0` · Android
+
+---
+
+### 🌐 Dilinizi seçin · Choose your language · اختر لغتك
+
+| 🇹🇷 | 🇬🇧 | 🇸🇦 |
+|:---:|:---:|:---:|
+| [**Türkçe**](#tr) | [**English**](#en) | [**العربية**](#ar) |
+
+<sub>Bölümün başlığına dokunarak açıp kapatabilirsiniz · Tap a heading to expand or collapse it · اضغط على العنوان لفتح القسم أو إغلاقه</sub>
 
 </div>
 
 ---
 
-## 🇹🇷 Türkçe Kullanım Kılavuzu
+<a id="tr"></a>
 
-Takiyuddin, Kur'an-ı Kerim'i anlamak, ezberlemek ve günlük İslami pratikleri takip etmek için tasarlanmış kapsamlı bir mobil uygulamadır.
+<details open>
+<summary><h2>🇹🇷 Türkçe Kullanım Kılavuzu</h2></summary>
 
-### 📱 Ekranlar ve Özellikler
+> Takiyuddin; Kur'an-ı Kerim'i **anlamak**, **ezberlemek** ve günlük ibadetleri **takip etmek** için hazırlanmış bir İslami şuur asistanıdır.
 
-**1. Ana Sayfa (Giriş)**
-* **Namaz Vakitleri:** Bulunduğunuz konuma göre dinamik namaz vakitlerini ve bir sonraki vakte kalan süreyi gösterir.
-* **Günün Ayeti:** Her gün değişen, veritabanından rastgele seçilen anlamlı ayetler sunar.
-* **Zikir Takibi:** Gün içindeki zikirlerinizi dairesel bir arayüzle takip edebilirsiniz.
-* **Hızlı Erişim:** Kur'an, Takvim, Dua ve Boykot gibi modüllere hızlıca ulaşmanızı sağlar.
+### 🧭 İçindekiler
+1. [İlk Kurulum](#tr-1)
+2. [Ana Sayfa](#tr-2)
+3. [Kur'an-ı Kerim](#tr-3)
+4. [Sadâ — Tilavet Tanıma](#tr-4)
+5. [Katre — Esmaül Hüsna](#tr-5)
+6. [Kıble ve Pusula](#tr-6)
+7. [Dualar, Hadisler ve Diğer Araçlar](#tr-7)
+8. [Ayarlar ve Yedekleme](#tr-8)
+9. [İpuçları ve Sık Sorulanlar](#tr-9)
 
-**2. Kur'an-ı Kerim**
-* **Sureler:** 114 sure arasından hızlı arama ve navigasyon.
-* **Kelime Kelime Analiz:** Kelimelere dokunarak transliterasyon (okunuş) ve sesli dinleme yapabilirsiniz.
-* **Meal ve Tefsir:** Muhtasar ve Hayrat tefsirleri arasında anlık geçiş yapabilirsiniz.
-* **Hatim Takibi:** "Hızlı Git" veya ayet detayından başlatılabilen bağımsız hatim sistemi.
-* **Görsel Paylaşım:** Ayetleri premium görseller olarak sosyal medyada paylaşabilirsiniz.
+<a id="tr-1"></a>
+### 🚀 1. İlk Kurulum
+1. Uygulamayı açın ve **konum izni** verin. Namaz vakitleri ve kıble yönü buna göre hesaplanır.
+2. Ezan vakitlerinde haber almak için **bildirim izni** verin.
+3. Dili istediğiniz zaman **Ayarlar → Dil** bölümünden değiştirebilirsiniz.
 
-**3. Esmaül Hüsna (99 İsim)**
-* **Katre Formati:** Allah'ın 99 ismini dikey kaydırmalı (Reels tarzı) interaktif bir arayüzle keşfedin.
-* **Zikir Sayacı:** Her isim için ayrı ayrı hafızalı, interaktif zikir sayacı.
-* **Manevi İlk Yardım:** Psikolojik veya manevi durumlara göre (Huzursuzluk, Korku vb.) özel isim önerileri.
+<a id="tr-2"></a>
+### 🏠 2. Ana Sayfa
+| Özellik | Ne işe yarar? |
+|---|---|
+| 🕌 **Namaz Vakitleri** | Bulunduğunuz yere göre günün vakitlerini ve sıradaki vakte kalan süreyi gösterir. |
+| ✨ **Günün Ayeti** | Her gün yeni, anlamlı bir ayet sunar. |
+| 📿 **Zikir Takibi** | Günlük zikirlerinizi dairesel bir sayaçla sayın. |
+| ⚡ **Hızlı Erişim** | Kur'an, Takvim, Dua, Sadâ ve Boykot ekranlarına tek dokunuşla gidin. |
 
-**4. Kıble Bulucu (Özel Ekran)**
-* **İki Aşamalı Deneyim:** "Arama" evresinde Bakara 144, "Bulma" evresinde Bakara 115 ayeti ile manevi bir yolculuk.
-* **Mihrab ve Seccade:** Kıble ile hizalandığınızda merkezden Mihraba doğru açılan "Seccade" görseli ve ağır haptic (titreşim) geri bildirimi.
-* **Yüksek Hassasiyet:** 22 derecelik hedef bandı ile en doğru kıble yönü.
+<a id="tr-3"></a>
+### 📖 3. Kur'an-ı Kerim
+* **Sureler:** 114 sure içinde arama yapın ve istediğiniz sureye hızlıca geçin.
+* **Kelime Kelime:** Bir kelimeye dokunun. Okunuşunu, anlamını ve kökünü görür, sesini dinlersiniz.
+* **Meal ve Tefsir:** Diyanet, Elmalılı (Yazır), Muhtasar ve Hayrat gibi kaynaklar arasında anında geçiş yapın.
+* **Hatim Takibi:** Bir ayetin detayından **"Bu Ayetten Hatim Başlat"** deyin. Başlangıç tarihi ve ilerlemeniz kaydedilir.
+* **Genel İlerleme:** Okuma ekranında, tüm Kur'an üzerindeki ilerlemenizi gösteren modu açıp kapatabilirsiniz.
+* **Görsel Paylaşım:** Ayetleri şık bir görsel olarak sosyal medyada paylaşın.
+* **Sözlük ve Kartlar:** Kaydettiğiniz kelimeleri köklerine göre inceleyin ve kelime kartlarıyla (flashcard) çalışın.
 
-**5. Pusula ve Diğer Uygulamalar**
-* **Genel Pusula:** Bakara 115 ayeti entegreli, yön harflerinden arındırılmış şık pusula.
-* **Boykot Dedektifi:** Bilinçli tüketim için proaktif boykot rehberi.
-* **40 Rabbena Duası:** Kur'an-ı Kerim'deki Rabbena ile başlayan dualar.
+<a id="tr-4"></a>
+### 🎙️ 4. Sadâ — Tilavet Tanıma ve Mukabele
+1. Ana sayfadan **Sadâ**'yı açın.
+2. **"Tilaveti Dinlemek İçin Dokunun"** butonuna basıp telefonu okuyana yaklaştırın.
+3. Ayet bulununca **"Ayete Git"** ile mukabeleyi Kur'an ekranında takip edin.
 
-**6. 40 Hadis Explorer (İmam Nevevi)**
-* **Dijital Kütüphane:** İmam Nevevi'nin 42 hadislik temel külliyatını içeren premium arayüz.
-* **Çok Dilli:** Hadis metinlerini ve kaynaklarını Türkçe, İngilizce ve Arapça dillerinde karşılaştırmalı inceleyin.
-* **Gelişmiş Arama:** Hadis metni veya başlığı içinde anlık, diller arası arama yapın.
+> 💡 Mikrofon kullanamıyorsanız ayetten bir parçayı yazarak da arama yapabilirsiniz.
 
-**7. Veri ve Ayarlar**
-* **Çoklu Dil Desteği:** Türkçe, İngilizce ve Arapça dilleri arasında anlık geçiş.
-* **Yedekleme:** Tüm kayıtlı verilerinizi (ayetler, kelimeler, notlar) JSON olarak yedekleyip başka cihazlara aktarın.
-* **Font Ayarları:** Kur'an font tipini ve boyutunu kişiselleştirebilirsiniz.
+<a id="tr-5"></a>
+### 💧 5. Katre — Esmaül Hüsna (99 İsim)
+* Alt menünün ortasındaki **yeşil damla butonuna** basın.
+* Allah'ın 99 ismini aşağı kaydırarak (Reels tarzı) keşfedin.
+* **Zikir Sayacı:** Her ismin kendi sayacı vardır ve sayılar kaydedilir.
+* **Manevi İlk Yardım:** Huzursuzluk, korku gibi durumlara uygun isimler önerilir.
 
-### 💾 Yedekleme Nasıl Yapılır?
-1. **Ayarlar** sekmesine gidin.
-2. **"DIŞA AKTAR"** butonuna basarak yedek metnini kopyalayın.
-3. Başka bir cihaza geçmek için **"İÇE AKTAR"** diyerek bu metni yapıştırın.
+<a id="tr-6"></a>
+### 🧭 6. Kıble ve Pusula
+* **Kıble Bulucu:** Ararken Bakara 144, kıbleyi bulduğunuzda Bakara 115 ayeti gösterilir.
+* **Hizalama:** Kıbleye döndüğünüzde seccade görseli açılır ve telefon titrer. Hedef aralık ±11°'dir (toplam 22°).
+* **Genel Pusula:** Sade ve şık bir pusula.
 
-### 🌟 Kullanım İpuçları
-* **Widget:** Android ana ekranınıza namaz vakitleri widget'ını ekleyerek vakitleri anlık takip edin.
-* **Hızlı Git:** Bir ayeti çalışırken başka bir sureye/ayete geçmek için üstteki navigasyon araçlarını kullanın.
-* **Katre (FAB):** Alt barın ortasındaki yeşil butona basarak rastgele ayetler arasında dikey bir yolculuğa çıkın.
+> ⚠️ Doğru sonuç için telefonu yere paralel tutun; mıknatıslı kılıf ve metal eşyalardan uzak durun.
 
----
+<a id="tr-7"></a>
+### 🤲 7. Dualar, Hadisler ve Diğer Araçlar
+* **40 Rabbena Duası:** Kur'an'da "Rabbena" ile başlayan dualar.
+* **40 Hadis (İmam Nevevi):** 42 hadis Türkçe, İngilizce ve Arapça olarak yan yana; diller arasında arama yapılabilir.
+* **Dini Takvim:** Hicri tarihler, mübarek gün ve geceler.
+* **Boykot Dedektifi:** Bilinçli alışveriş için rehber.
 
-## 🇬🇧 English User Manual
+<a id="tr-8"></a>
+### ⚙️ 8. Ayarlar ve Yedekleme
+* **Dil:** Türkçe · English · العربية
+* **Kur'an Yazı Tipi:** Yazı tipini ve boyutunu kendinize göre ayarlayın.
+* **Bildirimler:** Hangi vakitlerde bildirim geleceğini seçin.
 
-Takiyuddin is a comprehensive mobile application designed to help you understand and memorize the Holy Quran, and track your daily Islamic practices.
+**💾 Yedekleme**
+1. **Ayarlar** sekmesini açın.
+2. **DIŞA AKTAR**'a basın ve çıkan yedek metnini kopyalayın.
+3. Yeni cihazda **İÇE AKTAR**'a basın ve metni yapıştırın.
 
-### 📱 Screens and Features
+<a id="tr-9"></a>
+### 🌟 9. İpuçları ve Sık Sorulanlar
+* **Widget:** Ana ekranı basılı tutun → *Widget'lar* → **Takiyuddin Vakitler**.
+* **Vakitler yanlış görünüyor:** Konum izninin açık olduğundan emin olun ya da konumu elle seçin.
+* **Bildirim gelmiyor:** Pil tasarrufu ayarlarında Takiyuddin'i "kısıtlamasız" yapın.
 
-**1. Home Page (Dashboard)**
-* **Prayer Times:** Displays dynamic prayer times based on your location and a countdown to the next prayer.
-* **Ayah of the Day:** Presents meaningful, randomly selected verses from the database that change daily.
-* **Dhikr Tracker:** Keep track of your daily dhikr with a circular interface.
-* **Quick Access:** Fast navigation to modules like the Quran, Calendar, Duas, and Boycott.
+<div align="right"><a href="#tr">⬆ Başa dön</a></div>
 
-**2. The Holy Quran**
-* **Surahs:** Quick search and navigation across all 114 Surahs.
-* **Word-by-Word Analysis:** Tap on words for transliteration and audio playback.
-* **Translation & Tafsir:** Instant switching between Mukhtasar and Hayrat exegesis.
-* **Khatm Tracker:** Independent khatm system launched via "Quick Go" or Ayah details.
-* **Visual Sharing:** Share verses on social media with premium visual templates.
-
-**3. Asma-ul Husna (99 Names)**
-* **Interactive Interface:** Discover the 99 Names of Allah with a vertical scrolling (Reels-style) design.
-* **Dhikr Counter:** Interactive counter with independent memory for each name.
-* **Spiritual First Aid:** Specific name recommendations based on psychological or spiritual states (e.g., Anxiety, Fear).
-
-**4. Qibla Finder (Dedicated Screen)**
-* **Two-Stage Experience:** A spiritual journey with Al-Baqarah 144 during the "Searching" phase and Al-Baqarah 115 upon "Finding".
-* **Mihrab & Prayer Mat:** Visual prayer mat unfolding towards the Mihrab with heavy haptic feedback upon alignment.
-* **High Precision:** Accurate Qibla direction with a 22-degree target band.
-
-**5. Compass & Other Tools**
-* **General Compass:** An elegant compass integrated with Al-Baqarah 115, free of cluttered directional letters.
-* **Boycott Detective:** A proactive guide for conscious consumerism.
-* **40 Rabbana Duas:** Supplications from the Quran starting with "Rabbana".
-
-**6. 40 Hadith Explorer (Imam Nawawi)**
-* **Digital Library:** A premium interface containing Imam Nawawi's foundational collection of 42 Hadiths.
-* **Multilingual:** Compare Hadith texts and sources in Turkish, English, and Arabic.
-* **Advanced Search:** Instant cross-language search within Hadith texts or titles.
-
-**7. Data & Settings**
-* **Multilingual Support:** Instant toggle between Turkish, English, and Arabic.
-* **Backup:** Export all saved data (verses, words, notes) as JSON and import to another device.
-* **Font Customization:** Personalize the Quranic font type and size.
-
-### 💾 How to Backup?
-1. Go to the **Settings** tab.
-2. Tap the **"EXPORT"** button and copy the backup text.
-3. To switch to a new device, tap **"IMPORT"** and paste the copied text.
-
-### 🌟 Usage Tips
-* **Widget:** Add the prayer times widget to your Android home screen for instant tracking.
-* **Quick Go:** Use the top navigation tools to jump to another Surah/Ayah while studying.
-* **Katre (FAB):** Press the green floating button at the bottom center to embark on a vertical journey through random verses.
+</details>
 
 ---
 
-<div align="right">
+<a id="en"></a>
 
-## 🇸🇦 دليل المستخدم باللغة العربية
+<details>
+<summary><h2>🇬🇧 English User Manual</h2></summary>
 
-تقي الدين هو تطبيق محمول شامل مصمم لمساعدتك على فهم وحفظ القرآن الكريم ومتابعة ممارساتك الإسلامية اليومية.
+> Takiyuddin is an Islamic mindfulness assistant built to help you **understand** and **memorize** the Holy Quran and **keep track of** your daily worship.
 
-### 📱 الشاشات والمميزات
+### 🧭 Contents
+1. [Getting Started](#en-1)
+2. [Home](#en-2)
+3. [The Holy Quran](#en-3)
+4. [Sadâ — Recitation Recognition](#en-4)
+5. [Katre — Asma-ul Husna](#en-5)
+6. [Qibla & Compass](#en-6)
+7. [Duas, Hadith & Other Tools](#en-7)
+8. [Settings & Backup](#en-8)
+9. [Tips & FAQ](#en-9)
 
-**١. الصفحة الرئيسية**
-* **أوقات الصلاة:** يعرض أوقات الصلاة بناءً على موقعك الجغرافي مع عد تنازلي للصلاة القادمة.
-* **آية اليوم:** يقدم آيات مختارة عشوائياً من قاعدة البيانات تتغير يومياً.
-* **متتبع الذكر:** تتبع أذكارك اليومية من خلال واجهة دائرية أنيقة.
-* **وصول سريع:** تنقل سريع إلى وحدات مثل القرآن، التقويم، الأدعية، والمقاطعة.
+<a id="en-1"></a>
+### 🚀 1. Getting Started
+1. Open the app and allow **location access**. Prayer times and the Qibla direction are calculated from it.
+2. Allow **notifications** so you are told when each prayer time begins.
+3. You can change the language at any time under **Settings → Language**.
 
-**٢. القرآن الكريم**
-* **السور:** بحث وتنقل سريع بين جميع سور القرآن الـ 114.
-* **تحليل كلمة بكلمة:** اضغط على الكلمات لقراءة النطق الحرفي والاستماع الصوتي.
-* **الترجمة والتفسير:** انتقال فوري بين تفسير المختصر وتفسير خيرات.
-* **متابعة الختمة:** نظام ختم مستقل يمكن تشغيله عبر "الانتقال السريع" أو تفاصيل الآية.
-* **مشاركة مرئية:** شارك الآيات على وسائل التواصل الاجتماعي بتصاميم بصرية مميزة.
+<a id="en-2"></a>
+### 🏠 2. Home
+| Feature | What it does |
+|---|---|
+| 🕌 **Prayer Times** | Today's prayer times for your location, with a countdown to the next prayer. |
+| ✨ **Ayah of the Day** | A new, meaningful verse every day. |
+| 📿 **Dhikr Tracker** | Count your daily dhikr with a circular counter. |
+| ⚡ **Quick Access** | Open the Quran, Calendar, Duas, Sadâ and Boycott screens with one tap. |
 
-**٣. أسماء الله الحسنى**
-* **واجهة تفاعلية:** اكتشف أسماء الله الحسنى بتصميم التمرير الرأسي (نمط الريلز).
-* **عداد الذكر:** عداد تفاعلي بذاكرة مستقلة لكل اسم.
-* **الإسعافات الروحية:** اقتراحات لأسماء معينة بناءً على الحالات النفسية أو الروحية (مثل القلق والخوف).
+<a id="en-3"></a>
+### 📖 3. The Holy Quran
+* **Surahs:** Search and jump between all 114 Surahs.
+* **Word by Word:** Tap a word to see how it is pronounced, what it means and its root, and to hear it read aloud.
+* **Translation & Tafsir:** Switch instantly between sources such as Clear Quran, Mukhtasar and Jalalayn.
+* **Khatm Tracker:** Choose **"Start Khatm from this Ayah"** in a verse's details. The app saves your start date and progress.
+* **Overall Progress:** Turn on a mode in the reader that shows your progress through the whole Quran.
+* **Visual Sharing:** Share verses on social media as polished images.
+* **Vocabulary & Flashcards:** Browse saved words by root and practise them with flashcards.
 
-**٤. محدد القبلة (شاشة مخصصة)**
-* **تجربة من مرحلتين:** رحلة إيمانية مع الآية 144 من سورة البقرة في مرحلة "البحث"، والآية 115 عند "العثور" على القبلة.
-* **المحراب وسجادة الصلاة:** مؤثرات بصرية لسجادة صلاة تفتح باتجاه المحراب مع اهتزاز ملموس قوي عند المحاذاة.
-* **دقة عالية:** توجيه دقيق للقبلة بنطاق هدف 22 درجة.
+<a id="en-4"></a>
+### 🎙️ 4. Sadâ — Recitation Recognition & Muqabala
+1. Open **Sadâ** from the Home screen.
+2. Tap **"Tap to Listen"** and hold the phone near the recitation.
+3. Once the verse is found, tap **"Go to Ayah"** to follow along in the Quran screen.
 
-**٥. البوصلة والتطبيقات الأخرى**
-* **بوصلة عامة:** بوصلة أنيقة مدمجة مع الآية 115 من سورة البقرة، خالية من الحروف الاتجاهية المزدحمة.
-* **دليل المقاطعة:** دليل استباقي للاستهلاك الواعي والمقاطعة.
-* **٤٠ دعاء ربنا:** أدعية من القرآن الكريم تبدأ بكلمة "ربنا".
+> 💡 If you can't use the microphone, type part of the verse to search for it.
 
-**٦. مستكشف الأربعين النووية**
-* **مكتبة رقمية:** واجهة مميزة تحتوي على مجموعة الإمام النووي الأساسية المكونة من 42 حديثاً.
-* **متعدد اللغات:** قارن متون الأحاديث ومصادرها باللغات التركية والإنجليزية والعربية.
-* **بحث متقدم:** بحث فوري عبر اللغات داخل نصوص الأحاديث أو عناوينها.
+<a id="en-5"></a>
+### 💧 5. Katre — Asma-ul Husna (99 Names)
+* Tap the **green drop button** in the middle of the bottom bar.
+* Discover the 99 Names of Allah by scrolling down (Reels-style).
+* **Dhikr Counter:** Each Name has its own counter, and your counts are saved.
+* **Spiritual First Aid:** Names suggested for states such as anxiety or fear.
 
-**٧. البيانات والإعدادات**
-* **دعم متعدد اللغات:** تبديل فوري بين التركية والإنجليزية والعربية.
-* **النسخ الاحتياطي:** تصدير جميع بياناتك المحفوظة (الآيات، الكلمات، الملاحظات) بصيغة JSON واستيرادها إلى جهاز آخر.
-* **تخصيص الخط:** تخصيص نوع وحجم خط القرآن الكريم.
+<a id="en-6"></a>
+### 🧭 6. Qibla & Compass
+* **Qibla Finder:** Al-Baqarah 144 is shown while you search, and Al-Baqarah 115 once you find the Qibla.
+* **Alignment:** When you face the Qibla, a prayer mat unfolds and the phone vibrates. The target range is ±11° (22° in total).
+* **General Compass:** A clean, simple compass.
 
-### 💾 كيفية عمل نسخة احتياطية؟
-1. اذهب إلى علامة التبويب **الإعدادات**.
-2. اضغط على زر **"تصدير"** (EXPORT) وانسخ نص النسخة الاحتياطية.
-3. للانتقال إلى جهاز جديد، اضغط على **"استيراد"** (IMPORT) والصق النص المنسوخ.
+> ⚠️ For best accuracy, hold the phone flat and keep away from magnetic cases and metal objects.
 
-### 🌟 نصائح الاستخدام
-* **الودجت (Widget):** أضف أداة أوقات الصلاة إلى شاشتك الرئيسية في نظام أندرويد للمتابعة الفورية.
-* **الانتقال السريع:** استخدم أدوات التنقل العلوية للانتقال إلى سورة/آية أخرى أثناء القراءة.
-* **قطرة (Katre):** اضغط على الزر الأخضر العائم في منتصف الشريط السفلي لبدء رحلة عمودية ممتعة بين آيات عشوائية.
+<a id="en-7"></a>
+### 🤲 7. Duas, Hadith & Other Tools
+* **40 Rabbana Duas:** The supplications in the Quran that begin with "Rabbana".
+* **40 Hadith (Imam Nawawi):** 42 hadiths shown side by side in Turkish, English and Arabic, searchable in all three languages.
+* **Islamic Calendar:** Hijri dates and blessed days and nights.
+* **Boycott Detective:** A guide to conscious shopping.
+
+<a id="en-8"></a>
+### ⚙️ 8. Settings & Backup
+* **Language:** Türkçe · English · العربية
+* **Quran Font:** Choose the font and its size.
+* **Notifications:** Choose which prayer times send you a notification.
+
+**💾 Backup**
+1. Open the **Settings** tab.
+2. Tap **EXPORT** and copy the backup text.
+3. On your new device, tap **IMPORT** and paste the text.
+
+<a id="en-9"></a>
+### 🌟 9. Tips & FAQ
+* **Widget:** Long-press your home screen → *Widgets* → **Takiyuddin Vakitler**.
+* **Prayer times look wrong:** Make sure location access is on, or pick your location manually.
+* **No notifications:** Set Takiyuddin to "Unrestricted" in your battery settings.
+
+<div align="right"><a href="#en">⬆ Back to top</a></div>
+
+</details>
+
+---
+
+<a id="ar"></a>
+
+<details>
+<summary><h2>🇸🇦 دليل المستخدم باللغة العربية</h2></summary>
+
+<div dir="rtl" align="right">
+
+> تقي الدين مساعدٌ للوعي الإسلامي، صُمِّم ليعينك على **فهم** القرآن الكريم و**حفظه** و**متابعة** عباداتك اليومية.
+
+### 🧭 المحتويات
+١. [البدء](#ar-1)
+٢. [الصفحة الرئيسية](#ar-2)
+٣. [القرآن الكريم](#ar-3)
+٤. [صدى — التعرّف على التلاوة](#ar-4)
+٥. [قطرة — أسماء الله الحسنى](#ar-5)
+٦. [القبلة والبوصلة](#ar-6)
+٧. [الأدعية والأحاديث وأدوات أخرى](#ar-7)
+٨. [الإعدادات والنسخ الاحتياطي](#ar-8)
+٩. [نصائح وأسئلة شائعة](#ar-9)
+
+<a id="ar-1"></a>
+### 🚀 ١. البدء
+١. افتح التطبيق واسمح **بالوصول إلى الموقع**، فعليه تُحسب أوقات الصلاة واتجاه القبلة.
+٢. اسمح **بالإشعارات** ليصلك تنبيه عند دخول وقت كل صلاة.
+٣. يمكنك تغيير اللغة في أي وقت من **الإعدادات ← اللغة**.
+
+<a id="ar-2"></a>
+### 🏠 ٢. الصفحة الرئيسية
+| الميزة | الوظيفة |
+|---|---|
+| 🕌 **أوقات الصلاة** | أوقات صلاة اليوم حسب موقعك، مع عدٍّ تنازلي للصلاة القادمة. |
+| ✨ **آية اليوم** | آية جديدة ذات معنى كل يوم. |
+| 📿 **متتبع الذكر** | عُدَّ أذكارك اليومية بعدّاد دائري. |
+| ⚡ **وصول سريع** | افتح شاشات القرآن والتقويم والأدعية وصدى والمقاطعة بلمسة واحدة. |
+
+<a id="ar-3"></a>
+### 📖 ٣. القرآن الكريم
+* **السور:** ابحث وتنقّل بين السور الـ 114 جميعها.
+* **كلمة بكلمة:** اضغط على أي كلمة لترى نطقها ومعناها وجذرها، وتستمع إليها.
+* **الترجمة والتفسير:** انتقل فوراً بين مصادر مثل التفسير الميسر والجلالين.
+* **متابعة الختمة:** اختر **«ابدأ الختمة من هذه الآية»** في تفاصيل الآية، فيُحفظ تاريخ البدء وتقدّمك.
+* **التقدّم العام:** شغّل وضعاً في شاشة القراءة يعرض تقدّمك في القرآن كله.
+* **مشاركة مرئية:** شارك الآيات على وسائل التواصل بتصاميم أنيقة.
+* **القاموس والبطاقات:** تصفّح الكلمات المحفوظة حسب جذورها وتدرّب عليها بالبطاقات التعليمية.
+
+<a id="ar-4"></a>
+### 🎙️ ٤. صدى — التعرّف على التلاوة والمقابلة
+١. افتح **صدى** من الصفحة الرئيسية.
+٢. اضغط **«اضغط للاستماع»** وقرّب الهاتف من القارئ.
+٣. عند العثور على الآية اضغط **«اذهب إلى الآية»** لتتابع في شاشة القرآن.
+
+> 💡 إن لم تستطع استخدام الميكروفون، فاكتب جزءاً من الآية للبحث عنها.
+
+<a id="ar-5"></a>
+### 💧 ٥. قطرة — أسماء الله الحسنى
+* اضغط **زر القطرة الأخضر** في منتصف الشريط السفلي.
+* اكتشف أسماء الله الحسنى بالتمرير إلى الأسفل (بنمط الريلز).
+* **عدّاد الذكر:** لكل اسم عدّاده الخاص، وتُحفظ أعدادك.
+* **الإسعافات الروحية:** أسماء مقترحة لحالات مثل القلق والخوف.
+
+<a id="ar-6"></a>
+### 🧭 ٦. القبلة والبوصلة
+* **محدد القبلة:** تظهر الآية 144 من سورة البقرة أثناء البحث، والآية 115 عند العثور على القبلة.
+* **المحاذاة:** عندما تتّجه إلى القبلة تنفتح سجادة الصلاة ويهتز الهاتف. نطاق الهدف ±11° (22° إجمالاً).
+* **بوصلة عامة:** بوصلة بسيطة وأنيقة.
+
+> ⚠️ لنتيجة دقيقة، أمسك الهاتف أفقياً وابتعد عن الأغطية المغناطيسية والأجسام المعدنية.
+
+<a id="ar-7"></a>
+### 🤲 ٧. الأدعية والأحاديث وأدوات أخرى
+* **٤٠ دعاء ربنا:** الأدعية القرآنية التي تبدأ بـ «ربنا».
+* **الأربعون النووية:** 42 حديثاً بالتركية والإنجليزية والعربية جنباً إلى جنب، مع البحث باللغات الثلاث.
+* **التقويم الهجري:** التواريخ الهجرية والأيام والليالي المباركة.
+* **دليل المقاطعة:** دليل للتسوق الواعي.
+
+<a id="ar-8"></a>
+### ⚙️ ٨. الإعدادات والنسخ الاحتياطي
+* **اللغة:** Türkçe · English · العربية
+* **خط القرآن:** اختر الخط وحجمه.
+* **الإشعارات:** اختر أوقات الصلاة التي يصلك عندها إشعار.
+
+**💾 النسخ الاحتياطي**
+١. افتح تبويب **الإعدادات**.
+٢. اضغط **تصدير** (EXPORT) وانسخ نص النسخة الاحتياطية.
+٣. في الجهاز الجديد اضغط **استيراد** (IMPORT) والصق النص.
+
+<a id="ar-9"></a>
+### 🌟 ٩. نصائح وأسئلة شائعة
+* **الودجت:** اضغط مطوّلاً على الشاشة الرئيسية ← *الأدوات* ← **Takiyuddin Vakitler**.
+* **أوقات الصلاة غير صحيحة:** تأكّد من تفعيل إذن الموقع، أو اختر موقعك يدوياً.
+* **لا تصل الإشعارات:** اجعل تقي الدين «غير مقيّد» في إعدادات البطارية.
+
+<div align="left"><a href="#ar">⬆ العودة إلى الأعلى</a></div>
 
 </div>
+
+</details>

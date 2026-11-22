@@ -41,13 +41,23 @@
 
 ### 📥 Uygulamayı İndir / Download App / تحميل التطبيق
 
-[![Download APK](https://img.shields.io/badge/Download-APK_Release-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.0.0/takiyuddinv2.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK_v2.1.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.1.0/takiyuddinv2.1.0.apk)
+
+![Boyut](https://img.shields.io/badge/Boyut_·_Size-64_MB-blue?style=flat-square) ![Android](https://img.shields.io/badge/Android-7.0+_·_64--bit_ARM-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+<sub>[Tüm sürümler / All releases / جميع الإصدارات](https://github.com/takiyuddin-dev/takiyuddin/releases)</sub>
 
 🇹🇷 *Takiyuddin uygulamasının en güncel sürümünü (APK) cihazınıza kurmak için yukarıdaki butona tıklayın.*
 <br>
 🇬🇧 *Click the button above to install the latest version (APK) of the Takiyuddin app on your device.*
 <br>
 🇸🇦 *انقر على الزر أعلاه لتثبيت أحدث إصدار (APK) من تطبيق تقي الدين على جهازك.*
+
+> 🇹🇷 v2.1.0, önceki sürümün **yarısı boyutundadır** (124 MB → 64 MB). Yalnızca 64-bit ARM telefonlarda çalışır (2017 sonrası telefonların neredeyse tamamı). Eski sürümün üzerine kurulur; verileriniz korunur.
+> <br>
+> 🇬🇧 v2.1.0 is **half the size** of the previous release (124 MB → 64 MB). It runs on 64-bit ARM phones only (almost every phone since 2017). It installs over the previous version and keeps your data.
+> <br>
+> 🇸🇦 الإصدار 2.1.0 **بنصف حجم** الإصدار السابق (124 ← 64 ميغابايت). يعمل على هواتف ARM ذات 64 بت فقط (تقريباً كل الهواتف منذ 2017). يُثبَّت فوق الإصدار السابق مع الحفاظ على بياناتك.
 
 ---
 
