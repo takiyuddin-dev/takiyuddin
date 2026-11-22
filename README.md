@@ -4,6 +4,12 @@
 
 **بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ**
 
+[![Download APK](https://img.shields.io/badge/Download-APK_v2.1.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.1.0/takiyuddinv2.1.0.apk)
+
+![Boyut](https://img.shields.io/badge/Boyut_·_Size-64_MB-blue?style=flat-square) ![Android](https://img.shields.io/badge/Android-7.0+_·_64--bit_ARM-3DDC84?style=flat-square&logo=android&logoColor=white) ![Diller](https://img.shields.io/badge/TR_·_EN_·_AR-3_dil-orange?style=flat-square)
+
+[📥 İndir / Download / تحميل](#download) · [🆕 Yenilikler / What's New](#whats-new) · [📖 Kılavuz / Manual / الدليل](USER_MANUAL.md)
+
 ---
 
 ### ✨ Öne Çıkan Özellikler / Key Features / الميزات الرئيسية
@@ -15,10 +21,25 @@
   🇬🇧 Study verses word by word, listen to their pronunciation, save to favorites, and share them with elegant designs.
   🇸🇦 ادرس الآيات كلمة بكلمة، استمع إلى نطقها، احفظها في المفضلة، وشاركها بتصاميم أنيقة.
 
+* 🎙️ **Sadâ — Tilavet Tanıma / Recitation Recognition / صدى — التعرّف على التلاوة** 🆕
+  🇹🇷 Okunan tilaveti dinler, ayeti anında bulur; mukabeleyi Kur'an ekranında takip edersiniz.
+  🇬🇧 Listens to a recitation, finds the verse instantly and lets you follow along (muqabala) in the Quran screen.
+  🇸🇦 يستمع إلى التلاوة ويتعرّف على الآية فوراً، لتتابع المقابلة في شاشة القرآن.
+
+* 📿 **Hatim Takibi / Khatm Tracker / متابعة الختمة** 🆕
+  🇹🇷 İstediğiniz ayetten hatim başlatın; başlangıç tarihinizi ve tüm Kur'an üzerindeki ilerlemenizi görün.
+  🇬🇧 Start a khatm from any verse; see your start date and your progress through the whole Quran.
+  🇸🇦 ابدأ الختمة من أي آية، وتابع تاريخ البدء وتقدّمك في القرآن كله.
+
+* 🕌 **Namaz Vakitleri & Widget / Prayer Times & Widget / أوقات الصلاة والودجت**
+  🇹🇷 Konumunuza göre vakitler, sıradaki vakte geri sayım, ezan bildirimleri ve ana ekran widget'ı.
+  🇬🇧 Prayer times for your location, a countdown to the next prayer, notifications and a home-screen widget.
+  🇸🇦 أوقات الصلاة حسب موقعك، عدّ تنازلي للصلاة القادمة، إشعارات وودجت للشاشة الرئيسية.
+
 * 💧 **Katre (Damla) / The Drop / قطرة**
-  🇹🇷 Hızla akan hayatta durup tefekkür etmenizi sağlayacak, özenle seçilmiş interaktif manevi damlalar.
-  🇬🇧 Carefully selected interactive spiritual drops that will make you pause and reflect in a fast-paced life.
-  🇸🇦 قطرات روحية تفاعلية مختارة بعناية تجعلك تتوقف وتتأمل في زحمة الحياة السريعة.
+  🇹🇷 Hızla akan hayatta durup tefekkür etmenizi sağlayacak, özenle seçilmiş interaktif manevi damlalar ve Esmaül Hüsna.
+  🇬🇧 Carefully selected interactive spiritual drops and the 99 Names of Allah that make you pause and reflect in a fast-paced life.
+  🇸🇦 قطرات روحية تفاعلية مختارة بعناية وأسماء الله الحسنى، تجعلك تتوقف وتتأمل في زحمة الحياة السريعة.
 
 * 📜 **40 Hadis / 40 Hadith / ٤٠ حديثاً**
   🇹🇷 Nebevi hikmetleri okuyun, ezberleyin ve modern hayatın içinde kendinize rehber edinin.
@@ -35,29 +56,51 @@
   🇬🇧 Turn your direction to the Kaaba with unerring accuracy using precise sensors, wherever you are in the world.
   🇸🇦 وجه وجهتك إلى الكعبة بدقة لا تخطئ باستخدام مستشعرات دقيقة، أينما كنت في العالم.
 
+* 📅 **Dini Takvim / Islamic Calendar / التقويم الهجري**
+  🇹🇷 Hicri tarihler, kandiller ve mübarek günler; yaklaşan günlere geri sayım.
+  🇬🇧 Hijri dates, holy nights and blessed days, with a countdown to upcoming ones.
+  🇸🇦 التواريخ الهجرية والليالي والأيام المباركة، مع عدّ تنازلي للمناسبات القادمة.
+
 <div align="center">
 
 ---
+
+<a id="whats-new"></a>
+
+### 🆕 v2.1.0 Yenilikler / What's New / الجديد
+
+| 🇹🇷 | 🇬🇧 | 🇸🇦 |
+|---|---|---|
+| 🪶 Uygulama **yarı boyutta**: 124 MB → 64 MB | 🪶 **Half the size**: 124 MB → 64 MB | 🪶 **نصف الحجم**: من 124 إلى 64 ميغابايت |
+| 🎙️ Sadâ: tilavetten ayet bulma | 🎙️ Sadâ: find a verse from a recitation | 🎙️ صدى: التعرّف على الآية من التلاوة |
+| 📿 Hatim başlangıç tarihi ve genel ilerleme | 📿 Khatm start date and overall progress | 📿 تاريخ بدء الختمة والتقدّم العام |
+| 📘 Yenilenmiş 3 dilli kullanım kılavuzu | 📘 Redesigned trilingual user manual | 📘 دليل مستخدم جديد بثلاث لغات |
+
+---
+
+<a id="download"></a>
 
 ### 📥 Uygulamayı İndir / Download App / تحميل التطبيق
 
 [![Download APK](https://img.shields.io/badge/Download-APK_v2.1.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.1.0/takiyuddinv2.1.0.apk)
 
-![Boyut](https://img.shields.io/badge/Boyut_·_Size-64_MB-blue?style=flat-square) ![Android](https://img.shields.io/badge/Android-7.0+_·_64--bit_ARM-3DDC84?style=flat-square&logo=android&logoColor=white)
-
 <sub>[Tüm sürümler / All releases / جميع الإصدارات](https://github.com/takiyuddin-dev/takiyuddin/releases)</sub>
 
-🇹🇷 *Takiyuddin uygulamasının en güncel sürümünü (APK) cihazınıza kurmak için yukarıdaki butona tıklayın.*
-<br>
-🇬🇧 *Click the button above to install the latest version (APK) of the Takiyuddin app on your device.*
-<br>
-🇸🇦 *انقر على الزر أعلاه لتثبيت أحدث إصدار (APK) من تطبيق تقي الدين على جهازك.*
+</div>
 
-> 🇹🇷 v2.1.0, önceki sürümün **yarısı boyutundadır** (124 MB → 64 MB). Yalnızca 64-bit ARM telefonlarda çalışır (2017 sonrası telefonların neredeyse tamamı). Eski sürümün üzerine kurulur; verileriniz korunur.
+| | 🇹🇷 Türkçe | 🇬🇧 English | 🇸🇦 العربية |
+|---|---|---|---|
+| **1** | Yukarıdaki butona dokunup APK'yı indirin. | Tap the button above to download the APK. | اضغط على الزر أعلاه لتنزيل ملف APK. |
+| **2** | İndirilen dosyayı açın; istenirse "Bilinmeyen kaynaklardan yükleme"ye izin verin. | Open the file; allow "Install unknown apps" if asked. | افتح الملف، واسمح بـ«تثبيت التطبيقات غير المعروفة» إذا طُلب ذلك. |
+| **3** | **Yükle**'ye dokunun. Eski sürümün üzerine kurulur, verileriniz korunur. | Tap **Install**. It installs over the old version and keeps your data. | اضغط **تثبيت**. يُثبَّت فوق الإصدار القديم مع الحفاظ على بياناتك. |
+
+> ⚠️ 🇹🇷 v2.1.0 yalnızca **64-bit ARM** telefonlarda çalışır (2017 sonrası telefonların neredeyse tamamı). Eski 32-bit cihazlar için [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0) sürümünü kullanın.
 > <br>
-> 🇬🇧 v2.1.0 is **half the size** of the previous release (124 MB → 64 MB). It runs on 64-bit ARM phones only (almost every phone since 2017). It installs over the previous version and keeps your data.
+> 🇬🇧 v2.1.0 runs on **64-bit ARM** phones only (almost every phone since 2017). On older 32-bit devices, use [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
 > <br>
-> 🇸🇦 الإصدار 2.1.0 **بنصف حجم** الإصدار السابق (124 ← 64 ميغابايت). يعمل على هواتف ARM ذات 64 بت فقط (تقريباً كل الهواتف منذ 2017). يُثبَّت فوق الإصدار السابق مع الحفاظ على بياناتك.
+> 🇸🇦 يعمل الإصدار 2.1.0 على هواتف **ARM ذات 64 بت** فقط (تقريباً كل الهواتف منذ 2017). على الأجهزة القديمة ذات 32 بت استخدم [الإصدار 2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
+
+<div align="center">
 
 ---
 
@@ -73,13 +116,10 @@
 
 ## 📖 Kullanım Kılavuzu / User Manual / دليل المستخدم
 
-🇹🇷 Uygulamanın tüm özelliklerini keşfetmek ve kurulum detaylarını incelemek için lütfen kullanım kılavuzumuza göz atın:
-<br>
-🇬🇧 To discover all the features of the app and review installation details, please check out our user manual:
-<br>
-🇸🇦 لاكتشاف جميع ميزات التطبيق ومراجعة تفاصيل التثبيت، يرجى الاطلاع على دليل المستخدم الخاص بنا:
+🇹🇷 Tüm özellikleri adım adım anlatan kılavuz · 🇬🇧 Step-by-step guide to every feature · 🇸🇦 دليل خطوة بخطوة لجميع الميزات
 
-🔗 [**USER_MANUAL.md**](USER_MANUAL.md)
+| [🇹🇷 **Türkçe**](USER_MANUAL.md#tr) | [🇬🇧 **English**](USER_MANUAL.md#en) | [🇸🇦 **العربية**](USER_MANUAL.md#ar) |
+|:---:|:---:|:---:|
 
 ---
 
