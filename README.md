@@ -4,7 +4,7 @@
 
 **بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ**
 
-[![Download APK](https://img.shields.io/badge/Download-APK_v2.2.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.2.0/takiyuddinv2.2.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK_v2.3.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.3.0/takiyuddinv2.3.0.apk)
 
 ![Boyut](https://img.shields.io/badge/Boyut_·_Size-65_MB-blue?style=flat-square) ![Android](https://img.shields.io/badge/Android-7.0+_·_64--bit_ARM-3DDC84?style=flat-square&logo=android&logoColor=white) ![Diller](https://img.shields.io/badge/TR_·_EN_·_AR-3_dil-orange?style=flat-square)
 
@@ -67,10 +67,17 @@
 
 <a id="whats-new"></a>
 
-### 🆕 v2.2.0 Yenilikler / What's New / الجديد
+### 🆕 v2.3.0 Yenilikler / What's New / الجديد
 
 | 🇹🇷 | 🇬🇧 | 🇸🇦 |
 |---|---|---|
+| 📚 **Burhan:** 12 ilim dalında 63 konu, doğrulanmış ayetler ve tefekkür notları | 📚 **Burhan:** 63 topics across 12 branches with verified verses | 📚 **البرهان:** 63 موضوعًا في 12 فرعًا مع آيات موثّقة |
+| 🔍 **Akıllı arama:** harf/şapka farkı yok, harekesiz Arapça, "2:255" ile ayete git, tüm mealler | 🔍 **Smart search:** diacritic-insensitive, Arabic without harakat, jump with "2:255", all translations | 🔍 **بحث ذكي:** دون تشكيل، والانتقال بكتابة «2:255»، وكل الترجمات |
+| ⏳ Widget ve bildirimde **canlı kalan süre** | ⏳ **Live countdown** on the widget and in notifications | ⏳ **عدّ تنازلي مباشر** في الودجت والإشعارات |
+| 📖 Okurken **cüz bilgisi**, 🔊 kelime **okunuşunu dinle** | 📖 **Juz info** while reading, 🔊 **listen** to words | 📖 **معلومات الجزء**، 🔊 **الاستماع** لنطق الكلمات |
+| 📅 Dini gün **hatırlatıcısı** ve günün vakitleri | 📅 Holy-day **reminders** and the day's prayer times | 📅 **تذكير** بالأيام المباركة ومواقيت اليوم |
+
+---|---|---|
 | ⏳ Widget ve bildirimde sıradaki vakte **canlı geri sayım** | ⏳ **Live countdown** to the next prayer on the widget and in notifications | ⏳ **عدّ تنازلي مباشر** للصلاة القادمة في الودجت والإشعارات |
 | 🎙️ Sadâ: tilavetten ayet bulma ve **ayet ayet takip** | 🎙️ Sadâ: find the verse and **follow the reciter** | 🎙️ صدى: التعرّف على الآية **ومتابعة القارئ** |
 | 🔔 Namaz bildirimleri artık **dakikasında, 7 gün** | 🔔 Prayer notifications **on time, 7 days ahead** | 🔔 إشعارات الصلاة **في وقتها لسبعة أيام** |
@@ -90,7 +97,7 @@
 
 ### 📥 Uygulamayı İndir / Download App / تحميل التطبيق
 
-[![Download APK](https://img.shields.io/badge/Download-APK_v2.2.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.2.0/takiyuddinv2.2.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK_v2.3.0-success?style=for-the-badge&logo=android)](https://github.com/takiyuddin-dev/takiyuddin/releases/download/v2.3.0/takiyuddinv2.3.0.apk)
 
 <sub>[Tüm sürümler / All releases / جميع الإصدارات](https://github.com/takiyuddin-dev/takiyuddin/releases)</sub>
 
@@ -102,11 +109,11 @@
 | **2** | İndirilen dosyayı açın; istenirse "Bilinmeyen kaynaklardan yükleme"ye izin verin. | Open the file; allow "Install unknown apps" if asked. | افتح الملف، واسمح بـ«تثبيت التطبيقات غير المعروفة» إذا طُلب ذلك. |
 | **3** | **Yükle**'ye dokunun. Eski sürümün üzerine kurulur, verileriniz korunur. | Tap **Install**. It installs over the old version and keeps your data. | اضغط **تثبيت**. يُثبَّت فوق الإصدار القديم مع الحفاظ على بياناتك. |
 
-> ⚠️ 🇹🇷 v2.2.0 yalnızca **64-bit ARM** telefonlarda çalışır (2017 sonrası telefonların neredeyse tamamı). Eski 32-bit cihazlar için [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0) sürümünü kullanın.
+> ⚠️ 🇹🇷 v2.3.0 yalnızca **64-bit ARM** telefonlarda çalışır (2017 sonrası telefonların neredeyse tamamı). Eski 32-bit cihazlar için [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0) sürümünü kullanın.
 > <br>
-> 🇬🇧 v2.2.0 runs on **64-bit ARM** phones only (almost every phone since 2017). On older 32-bit devices, use [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
+> 🇬🇧 v2.3.0 runs on **64-bit ARM** phones only (almost every phone since 2017). On older 32-bit devices, use [v2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
 > <br>
-> 🇸🇦 يعمل الإصدار 2.2.0 على هواتف **ARM ذات 64 بت** فقط (تقريباً كل الهواتف منذ 2017). على الأجهزة القديمة ذات 32 بت استخدم [الإصدار 2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
+> 🇸🇦 يعمل الإصدار 2.3.0 على هواتف **ARM ذات 64 بت** فقط (تقريباً كل الهواتف منذ 2017). على الأجهزة القديمة ذات 32 بت استخدم [الإصدار 2.0.0](https://github.com/takiyuddin-dev/takiyuddin/releases/tag/v2.0.0).
 
 <div align="center">
 
